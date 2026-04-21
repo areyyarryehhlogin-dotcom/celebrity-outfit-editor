@@ -1,0 +1,17 @@
+# Bot
+pyTelegramBotAPI==4.14.0
+
+# Video & Image
+opencv-python-headless==4.9.0.80
+Pillow==10.3.0
+numpy==1.26.4
+ffmpeg-python==0.2.0
+
+# Background removal (CPU only — no GPU, no onnxruntime pin)
+rembg[cpu]==2.0.50
+
+# Storage
+huggingface_hub==0.23.2
+
+# HTTP (for Catbox upload)
+requests==2.32.3
