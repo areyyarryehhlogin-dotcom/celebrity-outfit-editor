@@ -1,1 +1,1 @@
-# celebrity-outfit-editor
+# celeb
